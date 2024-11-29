@@ -1,0 +1,15 @@
+body, html{
+    background: radial-gradient(50% 100% at 50% 0%, rgba(44, 66, 156, 0.15) 0%, rgba(0, 0, 0, 0) 100%);
+    position: absolute;
+    height: 75rem;
+    width: 100%;
+
+}
+.menu{
+    background: radial-gradient(50% 100% at 50% 0%, rgba(44, 66, 156, 0.15) 0%, rgba(0, 0, 0, 0) 100%);
+    display: flex;
+    flex-wrap: wrap;
+}
+.menu-login{
+    
+}
